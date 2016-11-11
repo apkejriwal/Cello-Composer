@@ -13,3 +13,5 @@ To do this, one must visit this website and follow the instructions as noted by 
 http://web.mit.edu/music21/doc/installing/install.html
 
 The installation is very simple and is automated and does not require the user to have to move libraries manually. 
+
+To run this program, run CelloComposer.py
